@@ -11,6 +11,8 @@ Vi lager små kalkulatorer som er frie å bruke og dele:
 - **[Gjeldskalkulator](https://samlegjeldno.github.io/gjeldskalkulator/)** – se hva du sparer på å samle gjeld.
 - **[Effektiv rente-kalkulator](https://samlegjeldno.github.io/effektiv-rente-kalkulator/)** – regn nominell rente + gebyrer om til effektiv rente.
 - **[Renteøkning-kalkulator](https://samlegjeldno.github.io/renteokning-kalkulator/)** – tåler økonomien din høyere rente?
+- **[Gjeldfri-kalkulator](https://samlegjeldno.github.io/gjeldfri-kalkulator/)** – hvor mye raskere blir du gjeldfri ved å betale litt ekstra?
+- **[Nedbetaling-prioritering](https://samlegjeldno.github.io/nedbetaling-prioritering/)** – hvilket lån bør du betale ned først?
 
 ## Om oss
 
